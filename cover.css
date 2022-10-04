@@ -58,7 +58,7 @@ p{
   color: grey;
 }
 .title{
-  font-family: 'Brittany Signature', sans-serif;
+  font-family: 'Brittany Signature';
   color: #b91646;
 }
 .title-0{
@@ -192,7 +192,7 @@ p{
   display: inline-block;
   color: #b91646;
   font-size: 1.5em;
-    font-family: 'Brittany Signature', sans-serif;
+    font-family: 'Brittany Signature';
   text-decoration: none;
   position: relative;
   transition: all 0.2s;
